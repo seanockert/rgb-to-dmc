@@ -2,7 +2,7 @@
 
 Converts a colour to its closest DMC Floss value for embroidery and cross-stitching.
 
-Refer to [this chart](http://yarntree.com/075dmcolors.jpg] and (this chart)[https://www.csh.rit.edu/~vance/pages/color.html)
+Refer to [this chart](http://yarntree.com/075dmcolors.jpg) and [this chart](https://www.csh.rit.edu/~vance/pages/color.html)
 
 # Demo
 [Try it out here](https://so-rgb-to-dmc.surge.sh)
